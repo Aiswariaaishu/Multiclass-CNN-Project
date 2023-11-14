@@ -1,5 +1,5 @@
-# Multiclass-CNN-Project<br />
-Project Title: Eye Disease Classification with Deep Learning<br />
+# Multiclass-CNN-Project
+## Project Title: Eye Disease Classification with Deep Learning
 
 Overview: This project utilizes deep learning techniques to predict eye diseases—specifically, distinguishing between Entropion, Ectropion, combined Entropion and Ectropion, and a healthy eye. The model is trained on a diverse dataset of eye images, enabling accurate classification for early detection and intervention.<br />
 
